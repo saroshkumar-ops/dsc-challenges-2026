@@ -5,16 +5,12 @@
 ---
 
 ## 📌 How This Repository Works
-This single repository is your **Data Science Portfolio** for the entire semester. Instead of managing multiple repositories, all weekly challenges live here in organized sprint folders:
+This single repository is your **Data Science Portfolio** for the entire semester. Instead of managing multiple separate repositories, each weekly sprint will live here in organized sprint folders:
 
 ```
 dsc-challenges-2026/
-├── week-01-git-engineering/        ← Sprint 1: Git/GitHub Engineering & Core Python Bootcamp
-├── week-02-numpy-vectorization/    ← Sprint 2: High-Performance Vectorized Math
-├── week-03-pandas-data-wrangling/  ← Sprint 3: Memory Optimization & Dirty Data
-├── week-04-minor-exam-pause/       ← Academic Pause (Optional Office Hours)
-├── week-05-analytical-storytelling/← Sprint 5: Advanced EDA, Outliers, Insights
-└── week-06-sql-pipelines/          ← Sprint 6: Window Functions & Final Showcase
+├── week-01-git-engineering/        ← Sprint 1: Git/GitHub Engineering & Core Python Fundamentals
+└── (Upcoming weekly sprints are unlocked every Monday at 5:00 PM during lab sync)
 ```
 
 ---
@@ -76,7 +72,7 @@ Whenever a new sprint is released on **DSC Nexus**:
    git commit -m "feat(week01): complete project structure and metadata script"
    git push origin main
    ```
-6. **Submit your GitHub repo URL** on **DSC Nexus** (`http://localhost:5173` or deployed link) before Sunday 11:59 PM.
+6. **Submit your GitHub repo URL** on **DSC Nexus** (https://dsc-nexus-app-production.up.railway.app) before Sunday 11:59 PM.
 
 ---
 
